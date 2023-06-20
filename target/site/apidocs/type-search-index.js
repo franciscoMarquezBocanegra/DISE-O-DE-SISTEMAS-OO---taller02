@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.escuelaing.arsw","l":"App"},{"p":"edu.escuelaing.arsw.calculator","l":"Calculos"},{"p":"edu.escuelaing.arsw.LinkedList","l":"linkedlist"},{"p":"edu.escuelaing.arsw.LinkedList","l":"Node"},{"p":"edu.escuelaing.arsw.calculator","l":"Reader"}];updateSearchResults();
