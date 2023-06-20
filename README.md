@@ -9,8 +9,6 @@ Author: Francisco Márquez
 
 Date: 19/06/2023
 
-Description of class diagram: NA
-
 The source code: anexo
 
 A description: 
