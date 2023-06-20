@@ -5,10 +5,7 @@ import java.io.IOException;
 
 import edu.escuelaing.arsw.calculator.Reader;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args ) throws IOException
