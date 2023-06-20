@@ -5,11 +5,9 @@
 
 Title: INTRODUCTION TO JAVA, MVN, AND GIT: LOC COUNTING
 
-Author: Francisco
+Author: Francisco Márquez
 
 Date: 19/06/2023
-
-Class diagram: NA
 
 Description of class diagram: NA
 
