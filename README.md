@@ -11,7 +11,9 @@ Date: 19/06/2023
 
 The source code: anexo
 
-A description: 
+# Descripción: 
+
+Este programa lee los archivos que ya estan en el directorio del proyecto que se llaman Development.txt y estimateProxy.txt estos dos archivos de texto contienen numeros por cada linea que esta en este archivo.
 
 Tengo un total de 5 clases distribuidas en dos paquetes diferentes. Los paquetes se llaman calculator y LinkedList.
 
@@ -23,6 +25,11 @@ La clase principal App en su método main llama a la clase Reader para leer el a
 
 
 ***
+# Como ejecutarlo
 
+1. Clone el repositorio con: "git clone https://github.com/franciscoMarquezBocanegra/DISE-O-DE-SISTEMAS-OO---taller02"
+2. Desde el cmd ejecute el proyecto desde el cmd con los siguientes comandos.
 
 ![image](https://github.com/franciscoMarquezBocanegra/DISE-O-DE-SISTEMAS-OO---taller02/assets/98216991/e075fc17-7ca9-462b-a171-9462abcdc6cd)
+
+3. Segun el archivo, puedo observar el resultado de la media y la desviacion estandar correspondientemente.
